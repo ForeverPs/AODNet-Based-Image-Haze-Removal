@@ -21,7 +21,8 @@ Single Image Haze Removal Using AODNet in Pytorch
 #### Usage
 * How to Use : download the whole project and run **inference.py**
 * folder ./saved_models : where the trained models are saved, files are in .pth format.
-* folder ./data : the training data.
+* folder ./data/gt : groundtruth (haze free images) of the [**training data**](http://horatio.cs.nyu.edu/mit/silberman/nyu_depth_v2/nyu_depth_v2_labeled.mat).
+* folder ./data/hazy : corresponding hazy images of the training data.
 * folder ./test_images : some testing images that appear in the original paper.
 * data.py : function that loads the training data.
 * train.py : train a new AODNet from scratch using training data saved in folder ./data/.
