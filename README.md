@@ -30,8 +30,8 @@ Single Image Haze Removal Using AODNet in Pytorch
 * inference.py : single image dehazing using the trained AODNet.
 
 #### Results
-* [**The Leaning Tower of Pisa  5.5°**](https://github.com/ForeverPs/content-aware-rotation/blob/master/image/image7.jpg)<br>
-<img src= https://github.com/ForeverPs/content-aware-rotation/blob/master/eq/pisa_tower.jpg /><br><br>
+* [**Tiananmen Square**](https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result0.png)<br>
+<img src= https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result0.png /><br><br>
 
 * [**Palace Tower  -6.1°**](https://github.com/ForeverPs/content-aware-rotation/blob/master/image/image2.png)<br>
 <img src= https://github.com/ForeverPs/content-aware-rotation/blob/master/eq/palace_tower.jpg /><br><br>
