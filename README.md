@@ -44,7 +44,5 @@ Single Image Haze Removal Using AODNet in Pytorch
 
 
 #### References
-##### Author&ensp;:&ensp;Kaiming He, Huiwen Chang, Jian Sun<br>
-* ###### &ensp;[Content-Aware Rotation----ICCV 2013](http://kaiminghe.com/publications/iccv13car.pdf)<br>
-##### Matlab Version<br>
-* ###### &ensp;[iRotate](https://github.com/yuchien302/iRotate)<br>
+##### Author&ensp;:&ensp;Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, Dan Feng<br>
+* ###### &ensp;[An All-in-One Network for Dehazing and Beyond----ICCV 2017](https://arxiv.org/pdf/1707.06543.pdf)<br>
