@@ -33,14 +33,23 @@ Single Image Haze Removal Using AODNet in Pytorch
 * [**Tiananmen Square**](https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result0.png)<br>
 <img src= https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result0.png /><br><br>
 
-* [**Palace Tower  -6.1°**](https://github.com/ForeverPs/content-aware-rotation/blob/master/image/image2.png)<br>
-<img src= https://github.com/ForeverPs/content-aware-rotation/blob/master/eq/palace_tower.jpg /><br><br>
+* [**Mountain View**](https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result1.png)<br>
+<img src= https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result1.png /><br><br>
 
-* [**House Building  -5.8°**](https://github.com/ForeverPs/content-aware-rotation/blob/master/image/image1.png)<br>
-<img src= https://github.com/ForeverPs/content-aware-rotation/blob/master/eq/house.jpg /><br><br>
+* [**Toys**](https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result3.png)<br>
+<img src= https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result3.png /><br><br>
 
-* [**The Oriental Pearl Tower  1.8°**](https://github.com/ForeverPs/content-aware-rotation/blob/master/image/image8.jpg)<br>
-<img src= https://github.com/ForeverPs/content-aware-rotation/blob/master/eq/shanghai.jpg /><br><br>
+* [**Landscape**](https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result4.png)<br>
+<img src= https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result4.png /><br><br>
+
+* [**Indoor**](https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result7.png)<br>
+<img src= https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result7.png /><br><br>
+
+* [**Foggy Train**](https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result5.png)<br>
+<img src= https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result5.png /><br><br>
+
+* [**The Forbidden City**](https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result6.png)<br>
+<img src= https://github.com/ForeverPs/AODNet-Based-Image-Haze-Removal/blob/main/results/result6.png /><br><br>
 
 
 #### References
